@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyNoiseDetector" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <item name="colorPrimary">@color/warm_primary_dark</item>
+        <item name="colorAccent">@color/warm_accent</item>
+        <item name="android:windowBackground">#121212</item> <!-- A standard dark background -->
+        <item name="colorSurface">#212121</item> <!-- A slightly lighter dark surface -->
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="android:textColorSecondary">#BDBDBD</item> <!-- A lighter gray for secondary text -->
+    </style>
+</resources>

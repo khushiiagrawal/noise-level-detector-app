@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyNoiseDetector" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/warm_primary</item>
+        <item name="colorPrimaryDark">@color/warm_primary_dark</item>
+        <item name="colorAccent">@color/warm_accent</item>
+        <item name="android:windowBackground">@color/warm_background</item>
+        <item name="colorSurface">@color/warm_surface</item>
+        <item name="android:textColorPrimary">@color/warm_text_primary</item>
+        <item name="android:textColorSecondary">@color/warm_text_secondary</item>
+    </style>
+
+    <style name="Theme.MyNoiseDetector" parent="Base.Theme.MyNoiseDetector" />
+</resources>

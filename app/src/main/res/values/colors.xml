@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Warm Color Palette -->
+    <color name="warm_primary">#FFC107</color> <!-- Amber -->
+    <color name="warm_primary_dark">#FFA000</color> <!-- Orange -->
+    <color name="warm_accent">#FF5722</color> <!-- Deep Orange -->
+
+    <color name="warm_background">#FFF3E0</color> <!-- A light, warm off-white -->
+    <color name="warm_surface">#FFFEFA</color> <!-- A slightly warmer white for surfaces -->
+    <color name="warm_text_primary">#5D4037</color> <!-- A dark, warm brown for text -->
+    <color name="warm_text_secondary">#795548</color> <!-- A lighter warm brown for secondary text -->
+
+    <color name="red">#F44336</color>
+    <color name="yellow">#FFEB3B</color>
+    <color name="green">#4CAF50</color>
+</resources>
